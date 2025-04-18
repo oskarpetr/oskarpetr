@@ -5,7 +5,7 @@
 <p align="left">I'm a developer who makes showcase websites that visually tell a story as you scroll. I develop each site to match my clients' needs, creating the layouts and animations myself.</p>
 
 <p align="left">
-  Website: <a href="oskarpetr.com" target="_blank">oskarpetr.com<a/><br>
+  Website: <a href="https://oskarpetr.com" target="_blank">oskarpetr.com<a/><br>
   Email: <a href="mailto:contact@oskarpetr.com">contact@oskarpetr.com</a>
 </p>
     

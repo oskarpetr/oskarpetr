@@ -1,3 +1,7 @@
+<h2 align="left">About</h2>
+
+###
+
 <p align="left">I'm a developer who makes showcase websites that visually tell a story as you scroll. I develop each site to match my clients' needs, creating the layouts and animations myself.</p>
 
 <p align="left">
@@ -7,7 +11,7 @@
     
 ###
 
-<h2 align="left">Technologies I use</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 

@@ -6,7 +6,7 @@
 
 <p align="left">
   Website: <a href="https://oskarpetr.com">oskarpetr.com<a/><br>
-  Email: <a href="mailto:contact@oskarpetr.com">contact@oskarpetr.com</a>
+  Email: <a href="mailto:hello@oskarpetr.com">hello@oskarpetr.com</a>
 </p>
     
 ###
